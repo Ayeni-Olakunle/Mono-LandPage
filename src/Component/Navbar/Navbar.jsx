@@ -9,7 +9,7 @@ export default function NavBar() {
       <div>
         <ul className="ulItSelf">
           <li className="LiItSelf">
-            Why Mono <RiArrowDropDownLine style={{ fontSize: "30px" }} />
+            working well <RiArrowDropDownLine style={{ fontSize: "30px" }} />
             <ul>
               <div className="holdSubMenu">
                 <li className="listItSelf">
